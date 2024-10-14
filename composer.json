@@ -1,0 +1,11 @@
+{
+    "name": "loukianpltnv/monpackage",
+    "description": "premier package creer par moi",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Loukianpltnv\\Monpackage\\": "src/"
+        }
+    },
+    "require": {}
+}
